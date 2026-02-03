@@ -1,0 +1,12 @@
+[project]
+name = "morpho-position-ids"
+version = "0.1.0"
+description = "Fetch Morpho vaults/markets and generate position ids"
+requires-python = ">=3.11"
+dependencies = [
+  "httpx==0.28.1",
+  "web3==7.14.0",
+]
+
+[project.scripts]
+morpho-fetch = "fetch:main"

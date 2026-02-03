@@ -1,0 +1,3 @@
+id,name,notes,applicable_position_types
+1,morpho,,"vault,supply,borrow"
+2,morpho-v2,,vault
