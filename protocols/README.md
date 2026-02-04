@@ -2,5 +2,5 @@
 
 Each protocol file documents how to build `identifier` and shows canonical examples.
 
-- `morpho.md`
-- `morpho-v2.md`
+- `1-morpho.md`
+- `2-morpho-v2.md`
