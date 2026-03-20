@@ -24,7 +24,7 @@ Examples and pre-generated IDs live in `data/` and `protocols/`.
 
 ## Status
 
-This repo is an initial seed. The first protocols are Morpho and MorphoV2. Tools to generate ids will follow later.
+This repo is an initial seed. The first protocols are Morpho, MorphoV2, and Grove. Minimal tooling exists under `tools/` for generating and maintaining protocol position ids.
 
 ## Contributing
 

@@ -1,0 +1,11 @@
+[project]
+name = "grove-position-ids"
+version = "0.1.0"
+description = "Manually add Grove staking position ids"
+requires-python = ">=3.11"
+dependencies = [
+  "web3==7.14.0",
+]
+
+[tool.uv]
+package = false
